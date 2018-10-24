@@ -1,0 +1,7 @@
+---
+name: repometa
+issue-tracking: http://github.com/mtrovo/repometa
+criticality: high
+arch-domain: platform
+slack-channel: "#rnd-chat"
+email: Moises Trovo <moises.trovo@careem.com>
